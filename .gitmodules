@@ -1,0 +1,3 @@
+[submodule "subtest"]
+	path = subtest
+	url = git@github.com:g4workshop/subtest.git
